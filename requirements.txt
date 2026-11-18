@@ -1,8 +1,7 @@
 streamlit
 ultralytics
 opencv-python-headless
-numpy<2
+numpy>=1.26.4,<2
 pandas
 Pillow
 pillow-heif
-
